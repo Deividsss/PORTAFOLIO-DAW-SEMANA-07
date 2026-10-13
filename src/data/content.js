@@ -49,7 +49,6 @@ export const proyectos = [
     tecnologias: ['React', 'Vite', 'CSS', 'GitHub Pages'],
     repo: 'https://github.com/Deividsss/PORTAFOLIO-DAW-SEMANA-07',
     repoLabel: 'Repositorio GitHub',
-    demo: 'https://deividsss.github.io/PORTAFOLIO-DAW-SEMANA-07/',
   },
   {
     titulo: 'Práctica DAW: Semana 06',
