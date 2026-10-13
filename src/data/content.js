@@ -15,13 +15,6 @@ export const perfil = {
   foto: 'foto.jpg',
   presentacion:
     'Estudio Ingeniería de Sistemas en la UNCP y me interesa convertir ideas en aplicaciones web que funcionen bien y se vean bien. En este curso estoy aprendiendo a construir interfaces con React y Vite, y este portafolio documenta cómo avanzo semana a semana.',
-  enlaces: [
-    { nombre: 'GitHub', url: 'https://github.com/tu-usuario' },
-    { nombre: 'DAW Práctica Semana 06', url: 'https://github.com/Deividsss/DAW-PRACTICA-SEMANA-06-SAMANIEGO-QUISPE.git' },
-    { nombre: 'Ruleta Sorteo', url: 'https://github.com/HXava25/ruletasorteo.git' },
-    { nombre: 'LinkedIn', url: 'https://www.linkedin.com/in/tu-perfil' },
-    { nombre: 'Correo', url: 'mailto:tu-correo@ejemplo.com' },
-  ],
   cv: '', // Ej: 'cv-deivid-samaniego.pdf' (guárdalo en /public). Déjalo vacío para ocultar el botón.
 }
 

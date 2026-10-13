@@ -44,13 +44,6 @@ export default function Portada() {
               <a className="boton" href={perfil.cv} download>Descargar CV</a>
             )}
           </div>
-          <ul className="redes" aria-label="Mis enlaces">
-            {perfil.enlaces.map((e) => (
-              <li key={e.nombre}>
-                <a href={e.url} target="_blank" rel="noreferrer">{e.nombre}</a>
-              </li>
-            ))}
-          </ul>
         </div>
         <Foto />
       </div>
