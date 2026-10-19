@@ -10,8 +10,8 @@ export default function Cuaderno() {
       <div className="contenedor">
         <h2 className="seccion__titulo">Cuaderno</h2>
         <p className="seccion__intro">
-          Una página por semana: lo que aprendí con mis palabras, los ejercicios de laboratorio y
-          mi reflexión.
+          El curso comprende {semanas.length} semanas. Aquí registro los temas, ejercicios de
+          laboratorio y reflexiones de cada una.
         </p>
 
         <div className="pestanas" role="tablist" aria-label="Semanas del curso">

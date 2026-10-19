@@ -13,7 +13,7 @@ npm run dev        # abre http://localhost:5173
 
 - **Todo el contenido** está en `src/data/content.js` (perfil, estudios, proyectos,
   semanas del cuaderno, reflexión final y bibliografía).
-- **Tu foto**: guárdala en la carpeta `public/` con el nombre `foto.jpg`.
+- **Foto de portada**: está en `public/foto.png`; reemplázala ahí si quieres usar otra.
 - **Tu CV**: guárdalo en `public/` y pon su nombre en `perfil.cv`.
 - **Colores y tipografía**: variables al inicio de `src/styles.css`.
 
